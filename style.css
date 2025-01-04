@@ -17,6 +17,10 @@
   margin: 0 auto;
 }
 
+html{
+  scroll-behavior: smooth;
+}
+
 .header_area{
   position: fixed;
   width: 100%;
