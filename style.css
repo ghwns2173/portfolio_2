@@ -281,6 +281,25 @@ html{
 .portfolioSwiper .img05{
   background: url(./img/ROYAL_HOTEL_SEOUL.jpg) no-repeat center top / cover;
 }
+.portfolioSwiper .img06{
+  background: url(./img/benz.jpg) no-repeat center top / cover;
+}
+
+.portfolioSwiper .slide{
+  position: relative;
+}
+
+.portfolioSwiper .slide .button{
+  width: 100%;
+  height: 40px;
+  background-color: #000;
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  bottom: 0;
+}
 
 
 /* ---------------------------- */
