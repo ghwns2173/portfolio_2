@@ -89,14 +89,14 @@ html{
   height: 600px;
   border-left: 1px solid #ddd;
   padding-left: 80px;
-  filter: grayscale(1);
+  /* filter: grayscale(1); */
 
   transition: 0.3s;
 }
 
-#page01 .container .proflie_photo:hover{
+/* #page01 .container .proflie_photo:hover{
   filter: grayscale(0);
-}
+} */
 
 #page01 .container .title{
   display: flex;
